@@ -6,3 +6,4 @@ O protótipo a seguir vem como exercício da disciplina de Engenharia de Softwar
 A solução a seguir tem o objetivo de apresentar ao cliente em tempo real, informações sobre seu estado na fila, estimativa de tempo
 para ser atendido e dar liberdade ao mesmo para realizar outras atividades enquanto aguarda sua vez, sem perder seu lugar!
 
+Telas/Telas2.jpg
